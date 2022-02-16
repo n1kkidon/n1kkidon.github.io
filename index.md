@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>ur gay</h1>
+<p>i also fucked your mom</p>
 </body>
 </html>
