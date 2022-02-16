@@ -1,0 +1,718 @@
+.page-common #menu.halloween #nav li a.halloween img, .page-common #menu #nav li.halloween{
+  display: none;
+}
+.pda_top, .page-common .mal-side-koukoku .pda-tla-nUGkAdHmiepCTsbx{
+  display: none;
+}
+.page-common #menu.valentine #menu_left #nav li.valentine a.valentine img, .page-common #menu.valentine #menu_left #nav li.valentine{
+  display: none;
+}
+
+/*HALLOWEEN SHIT ABOVE*/
+.profile .user-comments .comment{
+  background-color: rgb(20, 20, 20);
+}
+.people-staff, .people-manga{
+  background-color: rgb(20, 20, 20);
+  border-bottom: 1px solid black;
+}
+.people-staff .btn-show-sort, .people-manga .btn-show-sort{
+  color: lightgray;
+}
+a.left-info-block-broadcast-button{
+  background-color: rgb(20, 20, 20);
+  border: 1px solid orange;
+  border-radius: 8px;
+}
+.leftside .broadcasts .info{
+  color: red;
+}
+
+.seasonal-anime-list .seasonal-anime .properties .property{
+  background-color: rgb(20, 20, 20);
+}
+.page-common .sprite-icon-social.icon-social.icon-facebook, .page-common .sprite-icon-social.icon-social.icon-twitter, .page-common .sprite-icon-social.icon-social.icon-reddit, .page-common .sprite-icon-social.icon-social.icon-tumblr, .page-common .icon-block-small .icon-social-small.icon-facebook-small, .page-common .icon-block-small .icon-social-small.icon-twitter-small, .page-common .icon-block-small .icon-social-small.icon-reddit-small, .page-common .icon-block-small .icon-social-small.icon-tumblr-small{
+  background-color: transparent;
+  border: 1px solid orange;
+  border-radius: 8px;
+}
+.page-common .profileRows a:hover, .page-common #profileRows a:hover{
+  background-color: orange;
+  color: black;
+}
+.page-common #footer-block .footer-app:before, .page-common #footer-block .footer-social-media:before, .page-common #footer-block .footer-recommended:before, .page-common #footer-block #copyright, .page-common #footer-block #recaptcha-terms{
+  color: lightgray;
+}
+
+.js-sns-icon-container.icon-block{
+  padding-left: 20px;
+}
+.navi-seasonal.fixed:after{
+  background-image: none;
+}
+
+.page-common .header-message-button{
+  color: orange;
+}
+.page-forum .btn-forum-manga-store{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+}
+.page-forum .btn-forum-manga-store-title, .page-forum .btn-forum-manga-store-title-button{
+  color: lightgray;
+}
+.page-forum .btn-forum-manga-store-title-button:before{
+  border-color: black;
+}
+a.left-info-block-notify-on-air-button{
+  background-color: rgb(20, 20, 20);
+  border: 1px solid orange;
+  border-radius: 8px;
+}
+
+.user-profile .user-compatability-graph .bar-outer{
+  background-color: rgb(15, 15, 15);
+  border-color: black;
+  border-radius: 8px;
+}
+.user-status-block .form-user-status[data-class=plantoread], .user-status-block .form-user-status[data-class=plantowatch]{
+  background-color: rgb(20, 20, 20);
+}
+body:not(.ownlist), .page-common #footer-block, .page-common #headerSmall, .page-common .header-profile.link-bg, .page-common #contentWrapper{
+  background-color: rgb(20, 20, 20);
+  background-repeat: no-repeat;
+  background-image: none;
+}
+.page-common #content, .people-character{
+  background-color: rgb(20, 20, 20);
+  border: black 1px solid;
+  color: orange;
+}
+.page-common .content-container .container-right h2, .page-common .content-container .container-right h5, .user-profile h4, body.index .left-column, body.index .widget .widget-header, .page-common .borderClass, body.index .widget.friend_list_updates .item, .news-list .news-unit{
+  border-color: black;
+  color: orange;
+}
+.page-common .content-container .container-left, .user-profile .user-status.border-top, .page-common #header-menu>.border:before, body.index .widget.reviews .item, .widget.my_list_updates .item, .manga-store .section-title, .manga-store-information-carousel .content-banner, .manga-store-information-carousel .content-book, .manga-store .main-left, .slider-wrap[data-v-083e412e]{
+  border-color: black;
+  
+}
+.user-profile .user-status li{
+  background: transparent;
+}
+.profile .statistics-updates .data .graph{
+  background-color: rgb(10, 10, 10); 
+  border: none;
+  padding: 0px;
+  border-radius: 16px;
+}
+.profile .statistics-updates .data .graph .graph-inner, .profile .user-statistics .stats-graph{
+  border-radius: 16px;
+}
+.profile .statistics-updates .image, .profile .user-favorites .favorites-list .list .image{
+  border-color: rgb(30, 30, 30);
+}
+.user-profile .user-function .icon-user-function.icon-comment, .user-profile .user-function .icon-user-function.icon-message.disabled, .user-profile .user-function .icon-user-function.icon-request.disabled, .page-common .textarea, .user-profile .user-function .icon-user-function.icon-message, .user-profile .user-function .icon-user-function.icon-remove, .user-profile .user-function .icon-user-function{
+  border-color: black;
+  background-color: rgb(15, 15, 15);
+  background-image: none;
+  height: 30px;  
+  border-radius: 8px;
+}
+.page-common #headerSmall .banner-header-anime-straming, .page-common #header-menu .header-menu-login .btn-mal-service{
+  display: none;
+}
+.user-profile .user-button .btn-profile-submit, .page-common .btn-form-submit, .top-ranking-table .title .button-preview{
+  background-color: orange;
+  color: black;
+  border-radius: 16px;
+  border-color: transparent;
+}
+.user-profile .user-button .btn-profile-submit:hover{
+  background-color: white;
+}
+.page-common a,  .page-common h2.page-common a:visited, .page-common h2, .icon-about-recommendations{
+  color: orange;
+}
+.page-common .fn-grey2, .page-common .word-break, body.index .widget.watched_topics .empty, body.index .widget.announcements .empty, body.index .widget.friend_list_updates .empty, body.index .widget.my_list_updates .empty, body.index .widget.my_statistics table td:nth-child(1), .widget-content, .text, .page-common .lightLink, .page-common .lightLink:link, .page-common .lightLink:visited, .page-common .lightLink:active, .news-list .comment-list .information .pv, .news-list .news-unit .information .pv, .news-list .comment-list .information .info, .news-list .news-unit .information .info, .ranking-digest .ranking-unit .info, .ranking-digest .ranking-unit .members, .spaceit_pad, .spaceit, .user-profile-sns{
+  color: lightgrey;
+}
+
+.page-common .h1{
+  background-color: transparent;
+  border: black 1px solid;
+  color: orange;
+  border-bottom: none;
+}
+.page-common #menu, .page-common #menu_left{
+  background-color: orange;
+}
+.page-common #nav li a{
+  color: black !important;
+  background-color: orange;
+}
+.page-common #menu_right{
+  background-color: orange;
+}
+.page-common #footer-block .footer-social-media .icon-sns-2.icon-fb{
+  background-position: 0px 0px;
+}
+.page-common #footer-block .footer-social-media .icon-sns-2.icon-tw{
+  background-position: -30px 0px;
+}
+.page-common #footer-block .footer-social-media .icon-sns-2.icon-ig{
+  background-position: -60px 0px;
+}
+.page-common #footer-block .footer-social-media .icon-sns-2.icon-dc{
+  background-position: -90px 0px;
+}
+.page-common #footer-block .footer-link.home{
+  border: none;
+}
+.page-common #headerSmall{
+  background-image: url(/img/pc/ownlist/logo_mal.png);
+  background-size: 200px;
+}
+.page-common #nav ul a{
+  background-color: orange;
+  background: orange;
+}
+.page-common #nav li.hover a, .page-common #nav ul a:hover{
+  background-color: white;
+}
+.widget-slide-block .widget-slide .btn-anime .external-link{
+  background-color: black;
+}
+.ranking-digest{
+  background-color: rgb(15, 15, 15);
+}
+.ranking-digest .ranking-header, .page-common a.button_add.button_add, .page-common a.button_add.button_edit, .page-common a.button_edit.button_add, .page-common a.button_edit.button_edit{
+  background-color: black;
+  border-bottom: none;
+}
+.widget-slide-block .widget-slide .btn-anime{
+  border: black;
+}
+.ranking-digest .ranking-unit .image, .page-common .header-profile-button, .user-profile .user-friends .icon-friend{
+  box-shadow: none;
+}
+.page-common div.picSurround img{
+  background-color: black;
+  border: none;
+}
+#widget-manga-store .widget-slide .btn-anime .link{
+  border: none;
+}
+.page-common .header-notification-button.has-unread:after{
+  background-color: white;
+  color: black;
+}
+.page-common .header-notification-item{
+  background-color: rgb(15, 15, 15);
+  border-color: black;
+}
+.page-common .header-notification-dropdown .arrow_box{
+  border: 1px black solid;
+}
+.page-common .header-notification-item-header .category{
+  color: orange;
+}
+.page-common .header-notification-item-content{
+  color: lightgrey;
+}
+.page-common .header-notification-view-all a{
+  background-color: orange;
+  border-color: black;
+  color: black;
+}
+.page-common .header-notification-dropdown-inner h3{
+  background-color: rgb(15, 15, 15);
+  border-color: black;
+  color: lightgrey;  
+}
+.page-common .header-notification-dropdown-inner h3 .mark-all{
+  color: orange;
+}
+.page-common .header-list .header-list-dropdown, .page-common .header-list .header-list-dropdown ul li a{
+  border-color: black;
+  background-color: orange;
+  color: black;
+}
+.top-ranking-table tr.ranking-list td{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+}
+.top-ranking-table .score .text.on, .top-ranking-table .your-score .text.on, .top-ranking-table .title .information{
+  color: lightgrey;
+}
+.top-ranking-table .status .btn-addEdit-large.btn-anime-watch-status{
+  background-color: orange;
+  border: none;
+  color: black;
+  border-radius: 8px;
+}
+.top-ranking-table .table-header td, .icon-top-ranking-page .prev, .icon-top-ranking-page .next, .page-common #horiznav_nav ul li .horiznav_active, .page-common #horiznav_nav ul li a:hover, .horiznav_nav ul li a.on, .horiznav_nav ul li a:hover, .page-common .inputButton, .seasonal-anime-list .anime-header, .watch .video-menu-category .btn-category.on, .watch .video-menu-category .btn-category:hover{
+  background-color: orange;
+  border-color: black;
+  color: black;
+}
+.top-ranking-table tr:last-of-type, .page-common .normal_header, .anime-manga-search .genre-link .genre-list{
+  border-color: black;
+  color: lightgrey;
+}
+.page-common #horiznav_nav ul li, .page-common #horiznav_nav ul li a{
+  background-color: rgb(20, 20, 20);
+}
+.page-common #horiznav_nav, .navi-seasonal .horiznav_nav, .navi-seasonal .horiznav-nav-seasonal, .video-menu-category{
+  border-bottom: solid 1px orange;
+}
+.navi-seasonal{
+  background-color: rgb(20, 20, 20);
+}
+.seasonal-anime-list .seasonal-anime{
+  border: 1px solid black;
+}
+.seasonal-anime-list .seasonal-anime .prodsrc, .seasonal-anime-list .seasonal-anime .genres, .seasonal-anime-list .seasonal-anime .information{
+  background-color: rgb(20, 20, 20);
+  border-bottom: black 1px solid;
+}
+.seasonal-anime-list .seasonal-anime .information .info, .seasonal-anime-list .seasonal-anime .information .scormem, .seasonal-anime-list .seasonal-anime .information{
+  background-color:rgb(20, 20, 20);
+  border-top: 1px solid black;
+  color: lightgray;
+}
+.navi-seasonal .horiznav-nav-seasonal .btn-seasonal .btn-type.on, .navi-seasonal .horiznav-nav-seasonal .btn-seasonal .btn-type:hover{
+  background-color: orange;
+  color: black;
+}
+.watch .video-menu-category .btn-category{
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  background-color: white;
+}
+.navi-seasonal .horiznav-nav-seasonal .btn-seasonal .btn-type{
+    background-color: white;
+    color: orange;
+    border: 2px black solid;
+}
+.seasonal-anime-list .seasonal-anime .prodsrc .source{
+  color: lightgray;
+}
+.seasonal-anime-list .seasonal-anime .genres .genre{
+  background-color: black;
+  border: black;
+  padding: 3px;
+}
+.season .pin-cta .btn{
+  background-color: orange;
+  border: none;
+  color: black;
+}
+.seasonal-anime-list .seasonal-anime .synopsis{
+  color: lightgray;
+}
+.page-common .header-profile .header-profile-dropdown ul li a, .page-common .header-profile .header-profile-dropdown{
+  border-color: black;
+}
+.page-common .header-profile .header-profile-dropdown ul li a:hover, .page-common .header-profile .header-profile-dropdown{
+  background-color: orange;
+  color: black;
+}
+.message.read > .mym, .message-container, .total_messages{
+  background-color: rgb(20, 20, 20);
+  border: 1px solid black;
+  color: lightgray;
+}
+.message.read .mym_subject > a.subject-link .text, .message.read .mym_date{
+  color: lightgray;
+}
+#dialog{
+  border: 5px solid black;
+}
+#dialog td{
+  border: none;
+}
+.page-common h2, .page-common .border_top{
+  border-color: black;
+}
+.pmessage-checkbox-block, .pmessage-checkbox-block .mym-checkbox-pulldown-button.on{
+  background-color: orange;
+  border-color: black;
+  border-radius: 8px;
+}
+.page-common .pagination .link-blue-box{
+  background-color: orange;
+  border-color: black;
+  border-radius: 8px;
+  color: black;
+}
+.user-profile .user-function .icon-user-function .text{
+  color: orange;
+}
+.user-profile .user-function .icon-user-function.icon-message.disabled .text, .user-profile .user-function .icon-user-function.icon-request.disabled .text{
+  color: lightgray;
+}
+.page-common .incrementalSearchResultList .list.list-bottom.focus, .page-common .incrementalSearchResultList{
+  background-color: black;
+  border-color: black;
+}
+.page-common .incrementalSearchResultList .list.focus{
+  background-color: orange;
+}
+.page-common .incrementalSearchResultList .list{
+  background-color: rgb(20, 20, 20);
+}
+.page-common .incrementalSearchResultList .list.separator, .user-profile .user-status li .user-status-data, .page-common .content-container .container-right h5, .user-profile .user-compatability-graph .user-compatability-title{
+  color: lightgray;
+}
+.page-common .incrementalSearchResultList .list .on .info .extra-info{
+  color: black;
+}
+.page-common .incrementalSearchResultList .list .off .info.anime .name, .page-common .incrementalSearchResultList .list .off .info.manga .name, .page-common .incrementalSearchResultList .list .off .info.news .name, .page-common .incrementalSearchResultList .list .off .info.featured .name, .page-common .incrementalSearchResultList .list .off .info.forum .name, .page-common .incrementalSearchResultList .list .off .info.character .name, .page-common .incrementalSearchResultList .list .off .info.person .name, .page-common .incrementalSearchResultList .list .off .info.club .name, .page-common .incrementalSearchResultList .list .off .info.user .name{
+  color: orange;
+}
+.page-common .incrementalSearchResultList .list .on .info .name{
+  color: black;
+}.page-common .incrementalSearchResultList .list .off .info.anime .media-type, .page-common .incrementalSearchResultList .list .off .info.manga .media-type, .page-common .incrementalSearchResultList .list .off .info.news .media-type, .page-common .incrementalSearchResultList .list .off .info.featured .media-type, .page-common .incrementalSearchResultList .list .off .info.forum .media-type, .anime-detail-header-stats .stats-block .numbers, .anime-detail-header-stats .stats-block .score:after{
+  color: lightgray;
+}
+.anime-manga-search .genre-link .genre-list .genre-name-link:hover, .anime-detail-header-stats .stats-block .score:before{
+  background-color: orange;
+  color: black;
+}
+.anime-detail-header-stats .stats-block, .anime-detail-header-stats .user-status-block, .user-status-block .form-user-episode, .user-status-block .form-user-episode input[type=text], .user-status-block .form-user-score, .user-status-block .disabled-btn-user-status-add-list{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+  color: lightgrey;
+}
+.anime-detail-header-stats .btn-affiliate.amazon{
+  display: none;
+}
+.anime-detail-header-stats .stats-block .score, .page-common .notice_open_public{
+  color: orange;
+}
+.user-status-block .form-user-status[data-class=reading], .user-status-block .form-user-status[data-class=watching], .user-status-block .form-user-status[data-class=completed], .user-status-block .form-user-status[data-class=plantowatch], .user-status-block .form-user-status[data-class=on-hold], .user-status-block .form-user-status[data-class=dropped]{
+  background-color: rgb(20, 20, 20);
+  transition: none;
+}
+
+.detail-characters-list .left-column table:nth-of-type(even), .detail-characters-list .left-right table:nth-of-type(even){
+  background-color: rgb(20, 20, 20);
+}
+.anime-detail-header-stats .btn-affiliate.manga-store{
+  display: none;
+}
+.detail-characters-list .left-column.divider:after, .page-forum .forum_boardrow1, .page-forum .forum_boardrow2, .btn-detail-recommendations-view-all{
+  border-color: black;
+  background-color: rgb(15, 15, 15);
+}
+.page-common .borderClass{
+  color: lightgrey;
+}
+.page-common .borderDark, .page-common #profileRows a, .page-common .profileRows a{
+  border-color: black;
+}
+.user-status-block .btn-user-status-add-list, .page-common .bgColor2{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+}
+.spaceit_pad, .page-common .bgColor1{
+  background-color:rgb(20, 20, 20);
+}
+.page-common div.updatesBar{
+  background-color: orange;
+}
+.anime-character, .page-common .border_solid{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+  color: lightgray;
+}
+.page-common p{
+  color: lightgrey;
+}
+
+.page-common .dark_text, .page-common .dark_text:hover, .page-common .dark_text:visited{
+  color: orange;
+}
+.page-common .hoverinfo .hoverinfo-contaniner{
+  background-color: rgb(20, 20, 20);
+  border: 1px solid orange;
+  border-radius: 8px;
+}
+.page-common .hoverinfo:after{
+  display: none;
+}
+.page-common .hoverinfo{
+  height: 240px;
+}
+.page-forum .forum_category{
+  background-color: orange;
+  border-color: black;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.page-forum .btn-forum{
+  border-color: orange;
+  background-color: rgb(30, 30, 30);
+  border-radius: 8px;
+}
+.page-forum .btn-forum:hover{
+  background-color: orange;
+  color: black;
+
+}
+.page-common .quotetext, .page-common .codetext, .page-forum .forum_boardrowspacer, .club-list .table-data:nth-of-type(odd) td{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+}
+.page-forum .sig{
+  border-color: black;
+}
+.page-forum .forum_locheader{
+  color: orange;
+}
+.club-list .table-data td{
+  border-color: black;
+}
+.club-list .btn-club-join{
+  background-color: orange;
+  color: black;
+  border-color: black;
+}
+.club-list .btn-club-join:hover{
+  background-color: white;
+}
+.page-common .di-ib, .ac{
+  color: lightgray;
+}
+body.news .content-left, body.news .news-side-block .news-list .news, body.news .news-side-block .news-list .featured, body.news .news-side-block .featured-list .news, body.news .news-side-block .featured-list .featured, body.news .featured-side-block .news-list .news, body.news .featured-side-block .news-list .featured, body.news .featured-side-block .featured-list .news, body.news .featured-side-block .featured-list .featured, body.news .news-side-block .header, body.news .featured-side-block .header, body.news .menu-category, body.news .menu-category .btn-edit-tags, body.news .tag-side-block .header, body.news .columnist-side-block .header, .news-list .comment-list .information .tags, .news-list .news-unit .information .tags{
+  border-color: black;
+}
+.page-common img{
+  border: 1px solid black;
+}
+.news-list .comment-list.rect .image-link .image, .news-list .news-unit.rect .image-link .image{
+  border: none;
+}
+body.news .menu-category .btn-category.selected, body.news .menu-category .btn-category:hover
+{
+  border-color: orange !important;
+  color: orange;
+}
+body.news .menu-category .btn-category{
+  border-color: white;
+  color: lightgray;
+}
+.people-favorites-ranking-table .table-header td, .characters-favorites-ranking-table .table-header td{
+  color: black;
+  border-color: black;
+  background-color: orange;
+}
+.people-favorites-ranking-table tr.ranking-list td, .characters-favorites-ranking-table tr.ranking-list td{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+  color: lightgray;
+}
+.page-common .fn-grey6{
+  color: lightgray;
+}
+.people-favorites-ranking-table tr:last-of-type, .characters-favorites-ranking-table tr:last-of-type{
+  border-color: black;
+}
+.btn-choose-your-own{
+  border-color: black;
+  color: black !important;
+  background-color: white;
+  
+}
+.btn-choose-your-own:hover{
+  background-color: orange;
+  color: black;
+}
+.manga-store-information-carousel .content-book-data .content-book-button-link, .page-common .pagination .link, body.page_account_setting a.btn, .membership .about-membership .plan .plan-monthly .button, .membership .about-membership .plan .plan-annually .button, .membership .about-membership .btn-subscription{
+  background-color: orange;
+  color: black;
+  border-color: black;
+  border-radius: 8px;
+  text-shadow: 0 0 0;
+}
+body.page_account_setting a.btn:hover{
+  background-color: white;
+}
+.manga-store-information-carousel .content-book-data .content-book-button-link:hover, .page-common .pagination .link:hover, .page-common .pagination .link.current{
+  background-color: white;
+}
+.manga-store-information-carousel-container .swiper-pagination-bullet-active{
+  background-color: orange;
+}
+body.news .news-container .news-info-block, body.news .news-container .tags, .news-list .comment-list:nth-of-type(even){
+  background-color: rgb(20, 20, 20);
+  color: lightgrey;
+}
+body.news .news-container .content, .news-list .comment-list .quotetext, .page-common .fn-grey5{
+  color: lightgrey;
+}
+.news-list .comment-list, .news-list .news-unit{
+  border-color: black;
+}
+body.news .news-container .tags .tag{
+  background-color: rgb(30, 30, 30);
+}
+body.news .news-container .tags .tag:hover{
+  background-color: orange;
+  color: black;
+}
+.btn-rect-grey1{
+  background-color: rgb(30, 30, 30);
+  border-color: orange;
+  border-radius: 8px;
+}
+.btn-rect-grey1:hover{
+  background-color: orange;
+  color: black;
+}
+.page-common .forum-topic-sort{
+  background-color: black;
+  border-radius: 8px;
+}
+a.manga-store-genre-list-toggle{
+  background-color: rgb(30, 30, 30);
+}
+.notification_settings .notification-setting-content .settings-notification .setting:first-of-type td{
+  background-color: orange;
+  color: black;
+  border-color: black;
+}
+.notification_settings .notification-setting-content .settings-notification .setting td.label .title{
+  color: orange;
+}
+.notification_settings .notification-setting-content .settings-notification .setting td.label, .notification_settings .notification-setting-content .settings-notification .setting td.button{
+  border-color: black;
+}
+.notification_settings .notification-setting-content .settings-notification .setting td.button input[type=checkbox]+label:before{
+  color: orange;
+}
+.notification_settings .notification-setting-content .settings-notification .setting td.button input[type=checkbox]:checked+label:after{
+  background-color: black;
+
+}
+.notification_settings .notification-setting-content .settings-notification .setting td.button input[type=checkbox]:checked+label:before{
+  color: black;
+}
+.notification_settings .notification-setting-content .settings-notification .setting td.button input[type=checkbox]:checked+label{
+  background-color: orange;
+}
+.notification_settings .notification-setting-content .settings-notification .setting td.button input[type=checkbox]+label{
+  border-color: orange;
+}
+.notification_settings .notification-setting-content .settings-notification .setting td.button input[type=checkbox]+label:after{
+  background-color: orange;
+}
+.ownlist_style #new-style .info{
+  background-color: rgb(30, 30, 30);
+  border-color: orange;
+  border-radius: 8px;
+  color: lightgray;
+}
+.manga-store .detail-card .detail-infoList-item .tag{
+  background-color: rgb(30, 30, 30);
+  border: 1px solid orange;
+  color: lightgray;
+}
+.manga-store .detail-card .detail-infoList-item .tag:hover{
+  background-color: orange;
+  color: black;
+}
+.ownlist_style .style-setting .setting-switch input[type=radio]:checked+label{
+  background-color: orange;
+  color: black;
+}
+.ownlist_style .style-setting .setting-switch input[type=radio]+label{
+  background-color: rgb(30, 30, 30);
+  color: orange;
+}
+.ownlist_style .style-setting .style-setting-form-button{
+  border-color: black;
+}
+.ownlist_style .new-theme-list .new-theme-unit.selected .title{
+  color: orange;
+}
+.ownlist_style .new-theme-list .new-theme-unit.selected, .ownlist_style .new-theme-list .new-theme-unit{
+  background-color: rgb(30, 30, 30);
+  border-color: orange;
+  border-radius: 8px;
+  margin-left: 20px;
+}
+.membership .about-membership .plan-header, .membership .about-membership .plan{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+}
+.membership .about-membership .plan .plan-monthly .plan-name, .membership .about-membership .plan .plan-annually .plan-name, .membership .about-membership .about-extras .about-extras-content .header{
+  color: lightgray;
+}
+.membership .about-membership .about-no-ads{
+  background-color: rgb(20, 20, 20);
+}
+.membership .about-membership .about-no-ads .text .description{
+  text-shadow: 0 0 0;
+  color: lightgray;
+}
+.page-common .button_form, .button[data-v-27c6f4a1], a[data-v-aa221466], .manga-store .btn-link-detail, .button[data-v-6ae44976]{
+  background-color: orange;
+  color: black;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.page-common .button_form:hover, .button[data-v-27c6f4a1]:hover, a[data-v-aa221466]:hover, .manga-store .btn-link-detail:hover, .button[data-v-6ae44976]:hover{
+  background-color: white;
+}
+.manga-store-preview, .manga-store .main-right, .manga-store .comics-list, .manga-store .detail-card .detail-img, .detail-preview-container[data-v-33dd389f]:after, .manga-store .detail-card .detail-infoList-item.copyright, .manga-store .detail-card .detail-title, .manga-store .detail-card .detail-body, .manga-store .content-detail, .manga-store .content-detail-bottom, .manga-store .view-all{
+  border-color: black;
+}
+.anime-detail-header-stats .stats-block .information, .manga-store-preview-info .manga-store-preview-info-header{
+  color: lightgray;
+}
+a.left-info-block-manga-store-button, a[data-v-93cd87b2]{
+  color: black;
+}
+.manga-store .comics-list-tab-area:before{
+  background: black;
+}
+.manga-store .comics-list-tab-item.is-active{
+  border-color: black;
+  color: orange;
+}
+.manga-store .breadcrumb{
+  border-bottom: 1px solid orange;
+}
+.js-truncate-outer .btn-truncate{
+  background: rgb(20, 20, 20);
+  height: 15px;
+  border-radius: 8px;
+  border: 1px solid orange;
+  width: 798px;
+}
+.js-truncate-outer .btn-truncate:hover{
+  background: rgb(30, 30, 30);
+}
+.profile .user-statistics .stats-graph .graph.watching, .profile .user-statistics .stats-graph .graph.reading, .profile .user-statistics .stats-status .circle.watching:after, .profile .user-statistics .stats-status .circle.reading:after, .profile .statistics-updates .data .graph .graph-inner.watching, .profile .statistics-updates .data .graph .graph-inner.re-watching, .profile .statistics-updates .data .graph .graph-inner.reading, .profile .statistics-updates .data .graph .graph-inner.re-reading{
+  background-color: rgb(1, 189, 1);
+}
+.page-common #searchBar.searchBar #topSearchText{
+  border-left: none;
+}
+.profile .user-statistics .stats-graph .graph.completed, .profile .statistics-updates .data .graph .graph-inner.completed, .profile .user-statistics .stats-status .circle.completed:after{
+  background-color: #1f6fca;
+}
+.profile .user-statistics .stats-graph .graph.dropped, .profile .user-statistics .stats-status .circle.dropped:after, .profile .statistics-updates .data .graph .graph-inner.dropped{
+  background-color: #aa1111;
+}
+.page-common .header-list .header-list-dropdown ul li a:hover{
+  background-color: white;
+}
+.qc-cmp2-persistent-link{
+  background-color: rgb(20, 20, 20);
+  border-top: 1px solid orange;
+  border-left: 1px solid orange;
+  
+}
