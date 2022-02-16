@@ -2,10 +2,10 @@
   display: none;
 }
 .pda_top, .page-common .mal-side-koukoku .pda-tla-nUGkAdHmiepCTsbx{
-  display: none;
+  display: none !important;
 }
 .page-common #menu.valentine #menu_left #nav li.valentine a.valentine img, .page-common #menu.valentine #menu_left #nav li.valentine{
-  display: none;
+  display: none !important;
 }
 
 /*HALLOWEEN SHIT ABOVE*/
