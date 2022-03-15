@@ -316,7 +316,7 @@
 .wrapper-15CKyy{
     background-color: black;
 }
-.scroller-3KyaqJ{
+.scroller-3KyaqJ, .scroller-29cQFV{
 	background-color: black;
 }
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo{
@@ -331,4 +331,10 @@
 }
 .lookFilled-yCfaCM.colorRed-rQXKgM:hover{
 	background-color: rgb(110, 30, 185);
+}
+.newMessagesBar-1hF-9G{
+	background-color: rgb(100, 20, 175);
+}
+.progressBar-2yl2pi{
+	background-color: rgb(100, 20, 175);
 }
