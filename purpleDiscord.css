@@ -316,4 +316,19 @@
 .wrapper-15CKyy{
     background-color: black;
 }
-	
+.scroller-3KyaqJ{
+	background-color: black;
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo{
+	background-color: black;
+	border: 1px solid rgb(100, 20, 175);
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover{
+	background-color: rgb(10, 10, 10); 
+}
+.lookFilled-yCfaCM.colorRed-rQXKgM{
+	background-color: rgb(100, 20, 175);
+}
+.lookFilled-yCfaCM.colorRed-rQXKgM:hover{
+	background-color: rgb(110, 30, 185);
+}
