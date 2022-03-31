@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>ur gay</h1>
-<p>i also fucked your mom</p>
+<h1>test</h1>
+<p>testing</p>
 </body>
 </html>
