@@ -9,6 +9,94 @@
 }
 
 /*HALLOWEEN SHIT ABOVE*/
+.pda-tla-nUGkAdHmiepCTsbx{
+  display: none;
+}
+.forum .forum-board{
+  border-color: black;
+  color: lightgray;
+}
+.page-common .fn-blue1{
+  color: orange;
+}
+.forum .forum-side-block .forum-side-list .forum-post .information .comment{
+  color: red;
+}
+.forum .forum-board:nth-of-type(even){
+  background-color: rgb(20, 20, 20);
+  
+}
+.stacks .search-side .quick-search a, .forum .forum-header{
+  color: black;
+  background-color: orange;
+  border-color: orange;
+}
+.stacks .content-left, .stacks .recent-list .column-item, .stacks h3.underline, .stacks .side-list .column-item{
+  border-color: black;
+}
+.contents-video-embed .btn-rect, .stacks .btn-new-stack{
+  background-color: orange;
+  border-color: orange;
+  color: black;
+}
+.news-list .news-unit .information .tags .tag{
+  color: orange;
+}
+.contents-video-embed .btn-rect:hover
+{
+  background-color: white;
+  border-color: white;
+}
+.user-status-block .btn-forum-episode{
+   background-color: rgb(20, 20, 20);
+   border-color: orange;
+}
+.user-status-block .btn-forum-episode:hover{
+  background-color: white;
+}
+
+.di-t{
+  background-color: rgb(20, 20, 20);
+}
+.contents-video-embed .episode-information{
+  background-color: rgb(20, 20, 20);
+}
+.contents-video-embed .video-anime-slide-block.hori{
+  border-color: black;
+}
+.contents-video-embed .btn-video-anime-slide.hori{
+  background-color: black;
+}
+.contents-video-embed .video-anime-slide-block.hori .video-anime-slide .btn-anime .link .text, .contents-video-embed .video-anime-slide-block.hori .video-anime-slide .btn-anime.play .link{
+  background-color: rgb(20, 20, 20);
+}
+.contents-video-embed .video-anime-slide-block.hori .video-anime-slide .btn-anime{
+  background-color: rgb(20, 20, 20);
+  border-right: 2px solid orange;
+  border-left: 2px solid orange;
+}
+.contents-video-embed .video-anime-slide-block.hori .video-anime-slide .btn-anime.play .link .episode-number{
+  color: orange;
+}
+
+.msg-frame, .page-common .badresult{
+  border-color: orange;
+  background-color: rgb(20, 20, 20);
+  border-radius: 8px;
+  color: lightgray;
+}
+.episode_list .episode-list-header td:last-of-type{
+  border-color: black;
+}
+.episode_list .episode-list-header{
+  background-color: rgb(20, 20, 20);
+}
+.episode_list .episode-list-header td, .episode_list .episode-list-data td{
+  background-color: rgb(20, 20, 20);
+  color: lightgray;
+  border-color: black;
+}
+
 .profile .user-comments .comment{
   background-color: rgb(20, 20, 20);
 }
