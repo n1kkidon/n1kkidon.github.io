@@ -1,6 +1,10 @@
 .page-common #menu.halloween #nav li a.halloween img, .page-common #menu #nav li.halloween{
   display: none;
 }
+.text-ribbon{
+  display: none;
+}
+
 .pda_top, .page-common .mal-side-koukoku .pda-tla-nUGkAdHmiepCTsbx{
   display: none !important;
 }
@@ -205,6 +209,7 @@ body:not(.ownlist), .page-common #footer-block, .page-common #headerSmall, .page
   background-image: none;
   height: 30px;  
   border-radius: 8px;
+  color: gray;
 }
 .page-common #headerSmall .banner-header-anime-straming, .page-common #header-menu .header-menu-login .btn-mal-service{
   display: none;
