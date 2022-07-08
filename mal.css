@@ -13,6 +13,63 @@
 }
 
 /*HALLOWEEN SHIT ABOVE*/
+.heading-primary[data-v-522a824a]{
+  background-color: orange;
+  color: black;
+  border-color: black;
+}
+.required-label[data-v-7ad1bbca]{
+  color: red;
+}
+#myanimelist-layout[data-v-2ac6c46e] a{
+  color: orange;
+}
+.header-mal-logo{
+  display: none;
+}
+#myanimelist-layout[data-v-039f6c9e] {
+  display: none;
+}
+footer[data-v-04530166]{
+  background-color: rgb(20, 20, 20);
+  color: gray;
+}
+#myanimelist-layout[data-v-2ac6c46e] .btn-primary.disabled, #myanimelist-layout[data-v-2ac6c46e] .btn-primary:disabled{
+  border-color: orange;
+}
+#myanimelist-layout[data-v-2ac6c46e] .btn{
+  background-color: rgb(20, 20, 20);
+}
+#myanimelist-layout[data-v-2ac6c46e] .btn-outline-secondary{
+  border: 1px dashed orange;
+}
+.active[data-v-ca1749ec]{
+  background-color: rgb(20, 20, 20);
+  border: 1px solid orange;
+  border-radius: 8px;
+}
+
+#myanimelist-layout[data-v-2ac6c46e] .form-control{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+  color: gray;
+
+}
+#myanimelist-layout[data-v-2ac6c46e] .form-check-input:checked{
+  background-color: orange;;
+}
+main[data-v-522a824a]{
+  border-color: black;
+  color: lightgray;
+}
+.page-common #searchBar.searchBar #topSearchValue{
+  margin-top: -1px;
+  padding-top: 1px;
+  height: 24px;
+}
+.page-common #menu.interest-stacks-challenge #menu_left #nav li.interest-stacks-challenge{
+  display: none;
+}
 .pda-tla-nUGkAdHmiepCTsbx{
   display: none;
 }
@@ -20,11 +77,35 @@
   border-color: black;
   color: lightgray;
 }
+
 .page-common .fn-blue1{
   color: orange;
 }
+.view-style2 a{
+  background-color: rgb(20, 20, 20);
+  border-color: orange;
+}
+.seasonal-anime-list .seasonal-anime .information.watching .information-item.buttons .js-user-status-block .js-btn-add-episode, .seasonal-anime-list .seasonal-anime .information.watching .information-item.buttons .js-user-status-block .js-btn-add-chapter, .seasonal-anime-list .seasonal-anime .information.reading .information-item.buttons .js-user-status-block .js-btn-add-episode, .seasonal-anime-list .seasonal-anime .information.reading .information-item.buttons .js-user-status-block .js-btn-add-chapter{
+  color: orange;
+}
+.seasonal-anime-list .seasonal-anime .information .information-item.buttons .bubble{
+  background-color: rgb(20, 20, 20);
+  color: orange;
+  border-color: orange;
+}
+.view-style2 a.on{
+  background-color: black;
+}
+.view-style2 a:hover{
+  background-color: black;
+}
 .forum .forum-side-block .forum-side-list .forum-post .information .comment{
   color: red;
+}
+.page-common .bg-color-base5{
+  background-color: rgb(20, 20, 20);
+  border: 1px solid orange;
+  border-radius: 8px;
 }
 .forum .forum-board:nth-of-type(even){
   background-color: rgb(20, 20, 20);
@@ -243,6 +324,10 @@ body:not(.ownlist), .page-common #footer-block, .page-common #headerSmall, .page
   color: black !important;
   background-color: orange;
 }
+.page-common #nav li.hover a.non-link{
+  color: black !important;
+  background-color: white;
+}
 .page-common #menu_right{
   background-color: orange;
 }
@@ -266,11 +351,11 @@ body:not(.ownlist), .page-common #footer-block, .page-common #headerSmall, .page
   background-size: 200px;
 }
 .page-common #nav ul a{
-  background-color: orange;
-  background: orange;
-}
-.page-common #nav li.hover a, .page-common #nav ul a:hover{
   background-color: white;
+  background: white;
+}
+ .page-common #nav ul a:hover{
+  background-color: lightgray;
 }
 .widget-slide-block .widget-slide .btn-anime .external-link{
   background-color: black;
