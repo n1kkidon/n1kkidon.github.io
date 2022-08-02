@@ -18,6 +18,29 @@
   color: black;
   border-color: black;
 }
+.review-element .thumbbody{
+  background-color: rgb(20, 20, 20);
+  border-color: black;
+}
+.review-element .thumbbody .body .reaction-box{
+  background-color: rgb(20, 20, 20);
+}
+.review-element .thumbbody .body .rating{
+  color: red;
+}
+
+.review-element .thumbbody .body .bottom-navi .icon-reaction img, .review-element .thumbbody .body .reaction-box .btn-reaction img{
+  border: none;
+}
+.review-element .thumbbody .body .reaction-box .btn-reaction:hover{
+  background-color: white;
+  border-color: white;
+}
+.review-element .thumbbody .body .tags .tag, .review-element .thumbbody .body .reaction-box .btn-reaction{
+  background-color: orange;
+  border-color: orange;
+  color: black;
+}
 .required-label[data-v-7ad1bbca]{
   color: red;
 }
